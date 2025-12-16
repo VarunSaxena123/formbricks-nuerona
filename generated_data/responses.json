@@ -1,0 +1,103 @@
+[
+  {
+    "id": "response_1",
+    "survey_id": "survey_1",
+    "user_id": "user_6",
+    "created_at": "2025-12-10T06:12:01.303233",
+    "data": {
+      "q1": "4",
+      "q2": "3",
+      "q3": "10",
+      "q4": "4",
+      "q5": "The product meets our needs effectively, good value for money."
+    },
+    "ttc": 90
+  },
+  {
+    "id": "response_2",
+    "survey_id": "survey_1",
+    "user_id": "user_3",
+    "created_at": "2025-12-14T01:12:01.303233",
+    "data": {
+      "q1": "5",
+      "q2": "4",
+      "q3": "6",
+      "q4": "6",
+      "q5": "Could use some improvement in response time, but generally good."
+    },
+    "ttc": 39
+  },
+  {
+    "id": "response_3",
+    "survey_id": "survey_2",
+    "user_id": "user_3",
+    "created_at": "2025-12-14T14:12:01.303233",
+    "data": {
+      "q1": "Manager",
+      "q2": "5",
+      "q3": "3"
+    },
+    "ttc": 107
+  },
+  {
+    "id": "response_4",
+    "survey_id": "survey_3",
+    "user_id": "user_9",
+    "created_at": "2025-12-14T13:12:01.303233",
+    "data": {
+      "q1": "3",
+      "q2": "Excellent product, easy to use and intuitive interface.",
+      "q3": "Great service, very satisfied with the overall experience."
+    },
+    "ttc": 235
+  },
+  {
+    "id": "response_5",
+    "survey_id": "survey_3",
+    "user_id": "user_3",
+    "created_at": "2025-12-12T06:12:01.303233",
+    "data": {
+      "q1": "8",
+      "q2": "There's a learning curve but once you get used to it, it's powerful.",
+      "q3": "Overall good experience, would recommend to colleagues."
+    },
+    "ttc": 95
+  },
+  {
+    "id": "response_6",
+    "survey_id": "survey_4",
+    "user_id": "user_3",
+    "created_at": "2025-12-10T12:12:01.303233",
+    "data": {
+      "q1": "Feature B",
+      "q2": "3",
+      "q3": "4"
+    },
+    "ttc": 212
+  },
+  {
+    "id": "response_7",
+    "survey_id": "survey_4",
+    "user_id": "user_7",
+    "created_at": "2025-12-14T10:12:01.303233",
+    "data": {
+      "q1": "Feature D",
+      "q2": "2",
+      "q3": "1"
+    },
+    "ttc": 128
+  },
+  {
+    "id": "response_8",
+    "survey_id": "survey_5",
+    "user_id": "user_6",
+    "created_at": "2025-12-16T09:12:01.303233",
+    "data": {
+      "q1": "The interface could be more intuitive, but functionality is solid.",
+      "q2": "5",
+      "q3": "7",
+      "q4": "Reliable service with good uptime and performance."
+    },
+    "ttc": 178
+  }
+]

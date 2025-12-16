@@ -1,0 +1,92 @@
+[
+  {
+    "id": "user_1",
+    "name": "Avery Jones",
+    "email": "avery.jones@techcorp.co",
+    "role": "owner",
+    "company": "TechCorp",
+    "created_at": "2025-05-03T17:12:01.303233",
+    "last_login": "2025-12-14T08:12:01.303233"
+  },
+  {
+    "id": "user_2",
+    "name": "Alex Rodriguez",
+    "email": "alex.rodriguez@cloudsystems.dev",
+    "role": "owner",
+    "company": "CloudSystems",
+    "created_at": "2025-08-28T17:12:01.303233",
+    "last_login": "2025-12-15T13:12:01.303233"
+  },
+  {
+    "id": "user_3",
+    "name": "Quinn Jones",
+    "email": "quinn.jones@futurelabs.co",
+    "role": "manager",
+    "company": "FutureLabs",
+    "created_at": "2025-04-05T17:12:01.303233",
+    "last_login": "2025-12-15T13:12:01.303233"
+  },
+  {
+    "id": "user_4",
+    "name": "Dakota Jones",
+    "email": "dakota.jones@digitalsolutions.ai",
+    "role": "manager",
+    "company": "DigitalSolutions",
+    "created_at": "2025-11-11T17:12:01.303233",
+    "last_login": "2025-12-15T06:12:01.303233"
+  },
+  {
+    "id": "user_5",
+    "name": "Dakota Davis",
+    "email": "dakota.davis@futurelabs.com",
+    "role": "manager",
+    "company": "FutureLabs",
+    "created_at": "2025-02-23T17:12:01.303233",
+    "last_login": "2025-12-14T00:12:01.303233"
+  },
+  {
+    "id": "user_6",
+    "name": "Jordan Garcia",
+    "email": "jordan.garcia@innovateinc.com",
+    "role": "manager",
+    "company": "InnovateInc",
+    "created_at": "2025-02-09T17:12:01.303233",
+    "last_login": "2025-12-14T19:12:01.303233"
+  },
+  {
+    "id": "user_7",
+    "name": "Quinn Garcia",
+    "email": "quinn.garcia@futurelabs.ai",
+    "role": "manager",
+    "company": "FutureLabs",
+    "created_at": "2025-05-17T17:12:01.303233",
+    "last_login": "2025-12-16T01:12:01.303233"
+  },
+  {
+    "id": "user_8",
+    "name": "Morgan Garcia",
+    "email": "morgan.garcia@techcorp.ai",
+    "role": "manager",
+    "company": "TechCorp",
+    "created_at": "2025-07-16T17:12:01.303233",
+    "last_login": "2025-12-13T19:12:01.303233"
+  },
+  {
+    "id": "user_9",
+    "name": "Casey Miller",
+    "email": "casey.miller@innovateinc.dev",
+    "role": "manager",
+    "company": "InnovateInc",
+    "created_at": "2025-01-22T17:12:01.303233",
+    "last_login": "2025-12-15T18:12:01.303233"
+  },
+  {
+    "id": "user_10",
+    "name": "Skyler Johnson",
+    "email": "skyler.johnson@techcorp.dev",
+    "role": "manager",
+    "company": "TechCorp",
+    "created_at": "2025-01-01T17:12:01.303233",
+    "last_login": "2025-12-16T13:12:01.303233"
+  }
+]

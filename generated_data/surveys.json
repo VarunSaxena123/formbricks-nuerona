@@ -1,0 +1,257 @@
+[
+  {
+    "name": "Customer Satisfaction Survey",
+    "type": "link",
+    "questions": [
+      {
+        "type": "rating",
+        "headline": "How satisfied are you with our service?",
+        "required": true,
+        "range": 5,
+        "labels": {
+          "left": "Very Dissatisfied",
+          "right": "Very Satisfied"
+        },
+        "id": "q1"
+      },
+      {
+        "type": "rating",
+        "headline": "How likely are you to recommend us to others?",
+        "required": true,
+        "range": 10,
+        "labels": {
+          "left": "Not at all likely",
+          "right": "Extremely likely"
+        },
+        "id": "q2"
+      },
+      {
+        "type": "rating",
+        "headline": "How likely are you to recommend us to others?",
+        "required": true,
+        "range": 10,
+        "labels": {
+          "left": "Not at all likely",
+          "right": "Extremely likely"
+        },
+        "id": "q3"
+      },
+      {
+        "type": "rating",
+        "headline": "Rate the quality of our product",
+        "required": true,
+        "range": 7,
+        "labels": {
+          "left": "Poor",
+          "right": "Excellent"
+        },
+        "id": "q4"
+      },
+      {
+        "type": "openText",
+        "headline": "Additional comments or feedback?",
+        "required": false,
+        "placeholder": "Any other feedback...",
+        "id": "q5"
+      }
+    ],
+    "thankYouCard": {
+      "enabled": true,
+      "headline": "Survey Complete",
+      "subheader": "We appreciate you taking the time."
+    },
+    "id": "survey_1",
+    "created_at": "2025-12-10T17:12:01.303233",
+    "updated_at": "2025-12-16T17:12:01.303233",
+    "status": "inProgress"
+  },
+  {
+    "name": "Employee Engagement Survey",
+    "type": "link",
+    "questions": [
+      {
+        "type": "multipleChoice",
+        "headline": "What is your primary role?",
+        "required": true,
+        "choices": [
+          "Individual Contributor",
+          "Manager",
+          "Director",
+          "Executive"
+        ],
+        "id": "q1"
+      },
+      {
+        "type": "rating",
+        "headline": "Rate the quality of our product",
+        "required": true,
+        "range": 7,
+        "labels": {
+          "left": "Poor",
+          "right": "Excellent"
+        },
+        "id": "q2"
+      },
+      {
+        "type": "rating",
+        "headline": "How likely are you to recommend us to others?",
+        "required": true,
+        "range": 10,
+        "labels": {
+          "left": "Not at all likely",
+          "right": "Extremely likely"
+        },
+        "id": "q3"
+      }
+    ],
+    "thankYouCard": {
+      "enabled": true,
+      "headline": "Thank You!",
+      "subheader": "Your feedback helps us improve."
+    },
+    "id": "survey_2",
+    "created_at": "2025-11-25T17:12:01.303233",
+    "updated_at": "2025-12-16T17:12:01.303233",
+    "status": "inProgress"
+  },
+  {
+    "name": "Product Feedback Survey",
+    "type": "link",
+    "questions": [
+      {
+        "type": "rating",
+        "headline": "How likely are you to recommend us to others?",
+        "required": true,
+        "range": 10,
+        "labels": {
+          "left": "Not at all likely",
+          "right": "Extremely likely"
+        },
+        "id": "q1"
+      },
+      {
+        "type": "openText",
+        "headline": "Additional comments or feedback?",
+        "required": false,
+        "placeholder": "Any other feedback...",
+        "id": "q2"
+      },
+      {
+        "type": "openText",
+        "headline": "What can we improve?",
+        "required": false,
+        "placeholder": "Your suggestions...",
+        "id": "q3"
+      }
+    ],
+    "thankYouCard": {
+      "enabled": true,
+      "headline": "Survey Complete",
+      "subheader": "We appreciate you taking the time."
+    },
+    "id": "survey_3",
+    "created_at": "2025-11-22T17:12:01.303233",
+    "updated_at": "2025-12-16T17:12:01.303233",
+    "status": "inProgress"
+  },
+  {
+    "name": "Market Research Survey",
+    "type": "link",
+    "questions": [
+      {
+        "type": "multipleChoice",
+        "headline": "Which features do you use most often?",
+        "required": false,
+        "choices": [
+          "Feature A",
+          "Feature B",
+          "Feature C",
+          "Feature D"
+        ],
+        "id": "q1"
+      },
+      {
+        "type": "rating",
+        "headline": "How satisfied are you with our service?",
+        "required": true,
+        "range": 5,
+        "labels": {
+          "left": "Very Dissatisfied",
+          "right": "Very Satisfied"
+        },
+        "id": "q2"
+      },
+      {
+        "type": "rating",
+        "headline": "How satisfied are you with our service?",
+        "required": true,
+        "range": 5,
+        "labels": {
+          "left": "Very Dissatisfied",
+          "right": "Very Satisfied"
+        },
+        "id": "q3"
+      }
+    ],
+    "thankYouCard": {
+      "enabled": true,
+      "headline": "Survey Complete",
+      "subheader": "We appreciate you taking the time."
+    },
+    "id": "survey_4",
+    "created_at": "2025-12-02T17:12:01.303233",
+    "updated_at": "2025-12-16T17:12:01.303233",
+    "status": "inProgress"
+  },
+  {
+    "name": "Website Usability Survey",
+    "type": "link",
+    "questions": [
+      {
+        "type": "openText",
+        "headline": "What do you like most about our service?",
+        "required": false,
+        "placeholder": "Your thoughts...",
+        "id": "q1"
+      },
+      {
+        "type": "rating",
+        "headline": "How satisfied are you with our service?",
+        "required": true,
+        "range": 5,
+        "labels": {
+          "left": "Very Dissatisfied",
+          "right": "Very Satisfied"
+        },
+        "id": "q2"
+      },
+      {
+        "type": "rating",
+        "headline": "How likely are you to recommend us to others?",
+        "required": true,
+        "range": 10,
+        "labels": {
+          "left": "Not at all likely",
+          "right": "Extremely likely"
+        },
+        "id": "q3"
+      },
+      {
+        "type": "openText",
+        "headline": "What do you like most about our service?",
+        "required": false,
+        "placeholder": "Your thoughts...",
+        "id": "q4"
+      }
+    ],
+    "thankYouCard": {
+      "enabled": true,
+      "headline": "Thanks for your feedback!",
+      "subheader": "Your responses are valuable to us."
+    },
+    "id": "survey_5",
+    "created_at": "2025-12-10T17:12:01.303233",
+    "updated_at": "2025-12-16T17:12:01.303233",
+    "status": "inProgress"
+  }
+]
